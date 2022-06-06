@@ -1,4 +1,4 @@
-### https://cdn.discordapp.com/attachments/810312025803849770/983449881463123968/gif.gif
+### 
 
 <!--
 **sexuaIity/sexuaIity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
