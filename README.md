@@ -1,4 +1,6 @@
-### ![gif](https://user-images.githubusercontent.com/87217964/172235452-d7bfd5ef-0f0a-48be-ba42-3a84bc96cff7.gif)
+:star: 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aercmvactbwob7cv4rqm7fgmuy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
